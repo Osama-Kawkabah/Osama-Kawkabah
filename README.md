@@ -22,4 +22,3 @@ Osama Ali Yahya Kawkabah<br>IT Graduate | Web | Data Analyst<br>Passionate Infor
 ![](https://github-contributor-stats.vercel.app/api?username=Osama-Kawkabah&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
