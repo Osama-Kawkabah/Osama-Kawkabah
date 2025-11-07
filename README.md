@@ -1,5 +1,5 @@
 # 💫 About Me:
-Osama Ali Yahya Kawkabah<br>IT Graduate | Web | Data Analyst<br>Passionate Information Technology graduate who enjoys building digital solutions that combine simplicity, performance, and creativity. Experienced in developing websites, desktop systems, and mobile apps with strong database and security foundations.<br>Learning Flutter & React to create smart, AI-assisted apps.<br>I love turning ideas into real functional projects! 💡
+Osama Ali Yahya Kawkabah<br>IT Graduate | Web | Data Analyst<br>Passionate Information Technology graduate who enjoys building digital solutions that combine simplicity, performance, and creativity. Experienced in developing websites, desktop systems with strong database and security foundations.<br>Learning Flutter & AI to create smart, AI-assisted apps.<br>I love turning ideas into real functional projects! 💡
 
 
 ## 🌐 Socials:
