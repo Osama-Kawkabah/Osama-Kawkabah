@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://osama-kawkabah.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:osamakawkabah@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
