@@ -15,6 +15,3 @@ Osama Ali Yahya Kawkabah<br>IT Graduate | Web | Data Analyst<br>Passionate Infor
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Osama-Kawkabah&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
